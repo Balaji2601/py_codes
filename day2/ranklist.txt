@@ -1,0 +1,5 @@
+1	15	Sai	100.00
+2	12	Pramodh	72.73
+3	11	Farooq	54.55
+4	13	Vishnu	48.18
+5	14	Charan	45.45
