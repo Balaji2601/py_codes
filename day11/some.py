@@ -1,3 +1,6 @@
+# Learning's : Split, Replace, Join, capitalize | map | assert
+
+
 def capitalize(inp, delimeters):
     for i in delimeters:
         inp = inp.replace(i, ' ')
@@ -20,5 +23,3 @@ if __name__ == '__main__':
     print(out)
     assert capitalize(inp, [' ', '_']) == "Sai Balaji Kothinti-iit"
     assert capitalize_one(inp, [' ', '_', '-']) == "Sai Balaji Kothinti Iit"
-
-
